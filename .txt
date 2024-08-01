@@ -1,0 +1,2 @@
+xvless://ecf99f62-a778-4d07-9d98-525e33900e94@185.143.232.210:80?encryption=none&security=none&sni=kanoon.ir&fp=firefox&type=ws&host=a-b54c7c8b59-qw.apps.ir-thr-ba1.arvancaas.ir&path=%2F#nim-direct
+xvless://ecf99f62-a778-4d07-9d98-525e33900e93@185.143.232.210:80?encryption=none&security=none&sni=kanoon.ir&fp=firefox&type=ws&host=a-b54c7c8b59-qw.apps.ir-thr-ba1.arvancaas.ir&path=%2F#nim
